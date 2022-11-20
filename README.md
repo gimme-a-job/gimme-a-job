@@ -1,10 +1,12 @@
+<!--
 - ### Hi there 👋
+-->
 
-👋 Hello there, I’m
-👀 I’m interested in Game and Music
-🌱 I’m currently learning coding in general
-💞️ I’m looking to collaborate on anything
-📫 To reach me mail: @gmail.com
+### 👋 Hello there, I’m
+### 👀 I’m interested in Game and Music
+### 🌱 I’m currently learning coding in general
+### 💞️ I’m looking to collaborate on anything
+### 📫 To reach me mail: @gmail.com
 
 <!--
 **gimme-a-job/gimme-a-job** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
