@@ -2,7 +2,7 @@
 - ### Hi there 👋
 -->
 
-### 👋 Hello there, I’m
+### 👋 Hello there, I’m John Smith
 ### 👀 I’m interested in Game and Music
 ### 🌱 I’m currently learning coding in general
 ### 💞️ I’m looking to collaborate on anything
